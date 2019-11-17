@@ -4,26 +4,26 @@ print(score)
 [0.010692030542457723, 0.9969199962615967]
 
 
-## Convolution 
+## 1- Convolution 
  or running convolutions is finding correlation between feature extractor/kernel and in given/defined space/object/image, to find existence of some building blocks like vertical edge , horizontal edge etc.  
 
-## filter/kernel :
+## 2- Filter/Kernel :
    a matrix to extract or check some patterns in other matrix through convolutions , like edge detection…. 
 
-## epochs
+## 3- Epochs
    Time taken to go through a dataset(completely) once
 
-## 1x1 convolution
-   can create something new with recombing existing info and reduce no of channels required.
+## 4- 1x1 convolution
+   can create something new with recombing existing info and reduce no of channels required (Z-channel reduction)
 
-## 3x3 convolution
+## 5- 3x3 convolution
    kernel with 3x3 to convole images , and one of the most used.
 
-## Feature maps
+## 6- Feature maps
    Output or Features extracted after convolution of various kernels..
 
-## Activation function
+## 7- Activation function
    a check or constraint to include the parameter in output or not. 
 
-## Receptive field
+## 8- Receptive field
    part of kernel or output layer which have information by convolving on part/pixels of previous layers.
