@@ -26,4 +26,4 @@ print(score)
    a check or constraint to include the parameter in output or not. 
 
 ## 8- Receptive field
-   part of kernel or output layer which have information by convolving on part/pixels of previous layers.
+   part of kernel or output layer which have information of image/object's part by convolving on part/pixels of previous layers.
