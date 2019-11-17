@@ -1,3 +1,9 @@
+Code- output
+
+print(score)
+[0.010692030542457723, 0.9969199962615967]
+
+
 Convolution meaning complex or not staright forward
   yield of interaction or correlation between two properties , in some defined space,time
      like amount of tea leaves and time if boiling yielding ‘kadakness’.
